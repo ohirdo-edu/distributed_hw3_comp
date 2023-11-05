@@ -1,0 +1,4 @@
+volumes/
+.idea/
+.env/
+__pycache__/
